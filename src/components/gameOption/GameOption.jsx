@@ -1,6 +1,8 @@
 
 import styles from './GameOption.module.css'
+
 import Icon from '../icon/Icon'
+
 
 const GameIcon = ({ iconName }) => <Icon iconName = { iconName } size = "25px" />
 
