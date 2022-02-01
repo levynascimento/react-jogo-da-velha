@@ -12,3 +12,9 @@
   
 }
 
+@media screen and (max-width: 480px) {
+  .gameContent {
+    flex-direction: column;
+    padding-bottom: 20px;
+  }
+}
