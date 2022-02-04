@@ -1,4 +1,4 @@
-import styles from './Title.module.css'
+import styles from './Title1.module.css'
 
 function Title ({ children }) {
   return (
